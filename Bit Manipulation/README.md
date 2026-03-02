@@ -25,7 +25,7 @@ Read my blog on Bit Manipulation in C Programming:
 **Solution: [Practice Problem 1](https://github.com/ravilpatel/C_Programming/blob/main/Bit%20Manipulation/Practice%20Problems/practice_1.c)**
 
 ### Practice Problem 2
-**Given two integers a and b, the task is to determine whether they have opposite signs. Return true if the signs of the two numbers are different and false otherwise.**
+**Given two integers a and b, the task is to determine whether they have opposite signs. Return true if the signs of the two numbers are different and false otherwise. Only RIGHT/LEFT SHIFT and XOR operation allowed.**
 
 ***Examples:***
 
