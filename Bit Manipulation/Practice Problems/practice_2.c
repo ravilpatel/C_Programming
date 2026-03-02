@@ -1,6 +1,7 @@
 /*
 Given two integers a and b, the task is to determine whether they have opposite signs. 
 Return true if the signs of the two numbers are different and false otherwise.
+Only RIGHT/LEFT SHIFT and XOR operation allowed.
 Examples:
 
 Input: a = -5, b = 10
@@ -35,4 +36,5 @@ _Bool check_sign(int a, int b)
     int x = ((a^b))>>31;
     if(x == -1) return 1;
     else return 0;
+
 }
